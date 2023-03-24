@@ -1,0 +1,21 @@
+.contact__form .form-control {
+  padding: 1.375rem .75rem;
+  line-height: 1.5;
+  color: #ffff;
+  border-radius: 0 !important;
+  border: 1px solid #fff;
+}
+
+.contact__form input.form-control{
+  margin-bottom: 2em;
+  height: calc(2.5rem + .75rem + 2px);
+}
+ 
+.btn {
+  color: white;
+  border: 2px solid #fff;
+}
+
+.btn:hover{
+  color: white
+}
